@@ -19,6 +19,6 @@
 ## 📫 Contact Me
 - **Email**: [mojahidaltarif78@gmail.com](mailto:mojahidaltarif78@gmail.com)
 - **LinkedIn**: [MD Mojahid AL Tarif](https://www.linkedin.com/in/mojahidaltarif/)
-- **Codeforces**: [mojahidaltarif](https://www.youtube.com/watch?v=xIApzP4mWyA&t=9964s)
+- **Codeforces**: [mojahidaltarif](https://codeforces.com/profile/mojahidaltarif)
 - **Facebook**: [MD. Mojahid AL Tarif](https://www.facebook.com/mojahidal.tarif.1/)
 - **Portfolio**: [MD. Mojahid AL Tarif](https://mojahidaltarif28.github.io/portfolio/)
