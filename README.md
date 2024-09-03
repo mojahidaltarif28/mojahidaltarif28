@@ -21,6 +21,6 @@ I'm a Full Stack Developer, passionate about Backend Development.
 ## 📫 Contact Me
 - **Email**: [mojahidaltarif78@gmail.com](mailto:mojahidaltarif78@gmail.com)
 - **LinkedIn**: [MD Mojahid AL Tarif](https://www.linkedin.com/in/mojahidaltarif/)
-- **Codeforces** [mojahidaltarif](https://www.youtube.com/watch?v=xIApzP4mWyA&t=9964s)
-- [![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/mojahidal.tarif.1/)
+- **Codeforces**: [mojahidaltarif](https://www.youtube.com/watch?v=xIApzP4mWyA&t=9964s)
+- **Facebook**: [MD. Mojahid AL Tarif](https://www.facebook.com/mojahidal.tarif.1/)
 - **Portfolio**: [MD. Mojahid AL Tarif](https://mojahidaltarif28.github.io/portfolio/)
