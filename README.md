@@ -12,8 +12,8 @@
 - **[Amazon-Clone-Project](https://github.com/mojahidaltarif28/Amazon-Clone-Project)**: Developed an Amazon clone website using HTML and CSS, replicating the user interface of the e-commerce platform. The site features a homepage with a search bar, navigation links, promotional banners, and product categories. Product listings are displayed in a grid layout with images, titles, prices, and ratings.
 - **[Rock-Paper-Scissor](https://github.com/mojahidaltarif28/Rock-Paper-Scissor)**: This is a simple game project created using HTML, CSS, and JavaScript, focusing on interactive gameplay and user experience.
 ## 🛠️ Skills
-- **Proficient**: C\C++, HTML, CSS, JavaScript, MySQL 
-- **Familar**: Java, Python, Firebase, Git, Laravel, Github, Machine Learning.
+- **Proficient**: C\C++, C#, HTML, CSS, JavaScript, MySQL 
+- **Familar**: Java, Python, Firebase, Git, DotNet, Laravel, Github, Machine Learning.
 - **Tools**: Android Studio, Apache NetBeans, VSCode
 
 ## 📫 Contact Me
