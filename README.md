@@ -3,13 +3,6 @@
 
 # 🚀 Projects
 
-- ## Portfolio
-  <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Screenshot%20(28).png?raw=true" alt="Description of image" width="400" height="230"/>
-
-   This is a personal portfolio website. It showcases various projects and skills, providing a brief overview of my professional background.\
-  **[Get Code](https://github.com/mojahidaltarif28/portfolio)**&nbsp;&nbsp;&nbsp; **[Go to Live](https://mojahidaltarif28.github.io/portfolio/)**
-  <hr>
-  
 - ## JnU Food
   <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Images/food-delivery.png?raw=true" alt="Description of image" width="400" height="230"/>
 
@@ -23,12 +16,18 @@
     This is a web-based Employee Management System built using .NET and SQL Server. The system allows users to manage employee records, including image handling (with compression), sorting, pagination, and search functionality.\
   **[Get Code](https://github.com/mojahidaltarif28/EmployeeManagement)**&nbsp;&nbsp;&nbsp; **[Go to Live](https://mojahidaltarifemployee.bsite.net/)**
   <hr>
+
+  - ## Salary Management System Java
+  <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Images/Salary-java.png?raw=true" alt="Description of image" width="400" height="230"/>
+
+    This is a Salary Management System Java project. It uses a Java GUI for the user interface, providing an interactive and user-friendly experience. An XAMPP server handles backend services and database management, ensuring efficient data processing and storage. The system allows for managing employee salary details, including adding, updating, and deleting records. It features tools for tracking salary payments and generating reports. The project emphasizes robust data management and seamless user interaction.\
+  **[Get Code](https://github.com/mojahidaltarif28/Salary-Management-System-JAVA/tree/main/src/salary/management/system/dbms)**&nbsp;&nbsp;&nbsp; **[Go to Live](https://www.youtube.com/watch?v=KMJFcLbhatw)**
+  <hr>
   
    <p align="center">
   <a href="https://mojahidaltarif28.github.io/portfolio/project.html"><strong>Show All Projects</strong></a>
     </p>
-
-   
+    
   <hr>
 ## 🛠️ Skills
 - **Proficient**: C\C++, C#, HTML, CSS, JavaScript, MySQL 
