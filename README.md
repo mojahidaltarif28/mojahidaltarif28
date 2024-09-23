@@ -25,8 +25,9 @@
   <hr>
   
    <p align="center">
-  <strong>[Show All Projects](https://mojahidaltarif28.github.io/portfolio/project.html)</strong>
-   </p>
+  <a href="https://mojahidaltarif28.github.io/portfolio/project.html"><strong>Show All Projects</strong></a>
+    </p>
+
    
   <hr>
 ## 🛠️ Skills
