@@ -4,13 +4,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:mojahidaltarif78@gmail.com" >
-    <img align="center" src="https://raw.githubusercontent.com/mojahidaltarif28/mojahidaltarif28/7adf4d8252064781d89067228fc7b9c9c1d48f61/Images/icons8-gmail.svg" alt="mojahidaltarif" height="34" width="44" />
+    <img align="center" src="https://raw.githubusercontent.com/mojahidaltarif28/mojahidaltarif28/7adf4d8252064781d89067228fc7b9c9c1d48f61/Images/icons8-gmail.svg" alt="mojahidaltarif" height="34" width="44" /> &nbsp;
   </a>
   <a href="https://www.linkedin.com/in/mojahidaltarif/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mojahidaltarif" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mojahidaltarif" height="30" width="40" /> &nbsp;
   </a>
   <a href="https://www.facebook.com/mojahidal.tarif.1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mojahidaltarif" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mojahidaltarif" height="30" width="40" /> &nbsp;
   </a>
   <a href="https://codeforces.com/profile/mojahidaltarif" target="blank">
     <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFtDsTEfs3adnrB-FjulnTaSH6mMoP_7ea_g&s" alt="rajaul2810" height="30" width="40" />
@@ -23,50 +23,26 @@
   <tr>
     <th>Category</th>
     <th>Skills</th>
-    <th>Icons</th>
   </tr>
   <tr>
     <td>Language</td>
-    <td>C++, JavaScript, TypeScript, & Python</td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-      <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="python" width="30" height="30"/>
-    </td>
+    <td> C, C++, C#, Java, JavaScript, & Python</td>
   </tr>
   <tr>
     <td>Mobile</td>
-    <td>React Native Expo, Google Maps API</td>
-    <td>
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-    </td>
+    <td>Android Studio with Java</td>
   </tr>
   <tr>
     <td>Web</td>
-    <td>React JS & Next JS, Prisma, Node JS, Tailwind CSS, SCSS, Redux, MUI, Bootstrap</td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
-      <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next.js" width="30" height="30"/> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
-    </td>
+    <td> ASP.NET, HTML, CSS, JavaScript, Bootstrap</td>
   </tr>
   <tr>
     <td>Database</td>
-    <td>MongoDB, MySQL, Firebase</td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
-    </td>
+    <td>SQL, MySQL, Firebase</td>
   </tr>
   <tr>
     <td>Additional Skill</td>
-    <td>Linux, Git, GitHub, Docker, VPS Management, Vercel, cPanel, LaTeX, and more</td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
-    </td>
+    <td>Linux, Git, GitHub, Apache NetBeans, VSCode, LaTeX, and more</td>
   </tr>
 </table>
 
@@ -99,10 +75,6 @@
     </p>
     
   <hr>
-## 🛠️ Skills
-- **Proficient**: C\C++, C#, HTML, CSS, JavaScript, MySQL 
-- **Familar**: Java, Python, Firebase, Git, DotNet, Laravel, Github, Machine Learning.
-- **Tools**: Android Studio, Apache NetBeans, VSCode
 
 ## 📫 Contact Me
 - **Email**: [mojahidaltarif78@gmail.com](mailto:mojahidaltarif78@gmail.com)
