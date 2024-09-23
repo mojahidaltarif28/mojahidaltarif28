@@ -1,7 +1,7 @@
 # Hi, I'm MD. Mojahid AL Tarif 👋
  I am a passionate web developer with a strong foundation in both frontend and backend technologies. I am proficient in HTML, CSS, JavaScript, and MySQL, and I have experience building dynamic, user-friendly websites and applications. I have experience in ASP.NET, Laravel, Java, Python, Firebase, Git, GitHub, and machine learning, which allows me to explore innovative solutions and stay current with industry trends. I love working with teams and am always looking for opportunities to grow and contribute to exciting projects.
 
-📫 Go To My Portfolio: <a href="https://mojahidaltarif28.github.io/portfolio/"><strong>Show All Projects</strong></a>
+📫 Go To My Portfolio: <a href="https://mojahidaltarif28.github.io/portfolio/"><strong>MD. Mojahid AL Tarif</strong></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -77,10 +77,3 @@
     </p>
     
   <hr>
-
-## 📫 Contact Me
-- **Email**: [mojahidaltarif78@gmail.com](mailto:mojahidaltarif78@gmail.com)
-- **LinkedIn**: [MD Mojahid AL Tarif](https://www.linkedin.com/in/mojahidaltarif/)
-- **Codeforces**: [mojahidaltarif](https://codeforces.com/profile/mojahidaltarif)
-- **Facebook**: [MD. Mojahid AL Tarif](https://www.facebook.com/mojahidal.tarif.1/)
-- **Portfolio**: [MD. Mojahid AL Tarif](https://mojahidaltarif28.github.io/portfolio/)
