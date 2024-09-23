@@ -4,22 +4,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:mojahidaltarif78@gmail.com" >
-    <img align="center" src="https://raw.githubusercontent.com/mojahidaltarif28/mojahidaltarif28/7adf4d8252064781d89067228fc7b9c9c1d48f61/Images/icons8-gmail.svg" alt="mojahidaltarif" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/mojahidaltarif28/mojahidaltarif28/7adf4d8252064781d89067228fc7b9c9c1d48f61/Images/icons8-gmail.svg" alt="mojahidaltarif" height="34" width="44" />
   </a>
-  <a href="https://linkedin.com/in/rajaul2810" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajaul2810" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/mojahidaltarif/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mojahidaltarif" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/20184648" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20184648" height="30" width="40" />
+  <a href="https://www.facebook.com/mojahidal.tarif.1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mojahidaltarif" height="30" width="40" />
   </a>
-  <a href="https://fb.com/hira2810" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hira2810" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/rajaul2810" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajaul2810" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/rajaul2810" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajaul2810" height="30" width="40" />
+  <a href="https://codeforces.com/profile/mojahidaltarif" target="blank">
+    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFtDsTEfs3adnrB-FjulnTaSH6mMoP_7ea_g&s" alt="rajaul2810" height="30" width="40" />
   </a>
 </p>
 
