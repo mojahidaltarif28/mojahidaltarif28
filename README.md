@@ -2,7 +2,6 @@
  I am a passionate web developer with a strong foundation in both frontend and backend technologies. I am proficient in HTML, CSS, JavaScript, and MySQL, and I have experience building dynamic, user-friendly websites and applications. I have experience in ASP.NET, Laravel, Java, Python, Firebase, Git, GitHub, and machine learning, which allows me to explore innovative solutions and stay current with industry trends. I love working with teams and am always looking for opportunities to grow and contribute to exciting projects.
 
 # 🚀 Projects
-   <hr>
 
 - ## Portfolio
   <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Screenshot%20(28).png?raw=true" alt="Description of image" width="400" height="230"/>
