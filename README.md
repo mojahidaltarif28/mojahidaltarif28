@@ -6,7 +6,7 @@
 - ## Portfolio
   <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Screenshot%20(28).png?raw=true" alt="Description of image" width="400" height="230"/>
 
-  <p style="text-align: justify;">This is a personal portfolio website. It showcases various projects and skills, providing a brief overview of my professional background.</p>
+  <p style="text-align: justify;color:red">This is a personal portfolio website. It showcases various projects and skills, providing a brief overview of my professional background.</p>
   **[Get Code](https://github.com/mojahidaltarif28/portfolio)**&nbsp;&nbsp;&nbsp; **[Go to Live](https://mojahidaltarif28.github.io/portfolio/)**
   <hr>
   
