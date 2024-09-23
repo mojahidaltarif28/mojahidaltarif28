@@ -1,6 +1,82 @@
 # Hi, I'm MD. Mojahid AL Tarif 👋
  I am a passionate web developer with a strong foundation in both frontend and backend technologies. I am proficient in HTML, CSS, JavaScript, and MySQL, and I have experience building dynamic, user-friendly websites and applications. I have experience in ASP.NET, Laravel, Java, Python, Firebase, Git, GitHub, and machine learning, which allows me to explore innovative solutions and stay current with industry trends. I love working with teams and am always looking for opportunities to grow and contribute to exciting projects.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:mojahidaltarif78@gmail.com" >
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="rajaul2810" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/rajaul2810" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajaul2810" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/20184648" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20184648" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/hira2810" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hira2810" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/rajaul2810" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajaul2810" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/rajaul2810" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajaul2810" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Skills</th>
+    <th>Icons</th>
+  </tr>
+  <tr>
+    <td>Language</td>
+    <td>C++, JavaScript, TypeScript, & Python</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+      <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="python" width="30" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Mobile</td>
+    <td>React Native Expo, Google Maps API</td>
+    <td>
+      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Web</td>
+    <td>React JS & Next JS, Prisma, Node JS, Tailwind CSS, SCSS, Redux, MUI, Bootstrap</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
+      <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next.js" width="30" height="30"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>MongoDB, MySQL, Firebase</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Additional Skill</td>
+    <td>Linux, Git, GitHub, Docker, VPS Management, Vercel, cPanel, LaTeX, and more</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
+    </td>
+  </tr>
+</table>
+
+
 # 🚀 Projects
 
 - ## JnU Food
@@ -17,7 +93,7 @@
   **[Get Code](https://github.com/mojahidaltarif28/EmployeeManagement)**&nbsp;&nbsp;&nbsp; **[Go to Live](https://mojahidaltarifemployee.bsite.net/)**
   <hr>
 
-  - ## Salary Management System Java
+- ## Salary Management System Java
   <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Images/Salary-java.png?raw=true" alt="Description of image" width="400" height="230"/>
 
     This is a Salary Management System Java project. It uses a Java GUI for the user interface, providing an interactive and user-friendly experience. An XAMPP server handles backend services and database management, ensuring efficient data processing and storage. The system allows for managing employee salary details, including adding, updating, and deleting records. It features tools for tracking salary payments and generating reports. The project emphasizes robust data management and seamless user interaction.\
