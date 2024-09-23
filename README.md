@@ -71,7 +71,7 @@
 </table>
 
 
-# 🚀 Projects
+<h3 align="left">Projects</h3>
 
 - ## JnU Food
   <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Images/food-delivery.png?raw=true" alt="Description of image" width="400" height="230"/>
