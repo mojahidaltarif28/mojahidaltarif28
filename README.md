@@ -6,12 +6,14 @@
   <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Screenshot%20(28).png?raw=true" alt="Description of image" width="400" height="230"/>
 
   This is a personal portfolio website. It showcases various projects and skills, providing a brief overview of my professional background.
-  **[Get Code](https://github.com/mojahidaltarif28/portfolio)**     **[Go to Live](https://github.com/mojahidaltarif28/portfolio)**
+  
+  **[Get Code](https://github.com/mojahidaltarif28/portfolio)**&nbsp;&nbsp;&nbsp **[Go to Live](https://github.com/mojahidaltarif28/portfolio)**
 - ## JnU Food
- <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Images/food-delivery.png?raw=true" alt="Description of image" width="400" height="230"/>
+  <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Images/food-delivery.png?raw=true" alt="Description of image" width="400" height="230"/>
  
-This is a food delivery Android application that allows users to order and have food delivered online. The backend of the application is developed using Java, which handles the server-side logic and operations. For data storage and management, the app uses Firebase as its database.
-**[Get Code](https://github.com/mojahidaltarif28/JnUFood)**     **[Go to Live](https://www.youtube.com/watch?v=BJt5K3pCLDA)**
+ This is a food delivery Android application that allows users to order and have food delivered online. The backend of the application is developed using Java, which handles   the server-side logic and operations. For data storage and management, the app uses Firebase as its database.
+ 
+  **[Get Code](https://github.com/mojahidaltarif28/JnUFood)**&nbsp;&nbsp;&nbsp **[Go to Live](https://www.youtube.com/watch?v=BJt5K3pCLDA)**
 - **.[Salary-Management-System](https://github.com/mojahidaltarif28/Salary-Management-System)**: Created the Salary Management System web based project. This project manages employee records and salaries, allowing for adding, updating, and deleting details. It features a dashboard with search and filter options, and detailed employee profiles. Salary information can be tracked and updated easily. The project emphasizes efficient data management and user-friendly navigation.
 - **[Salary-Management-System-JAVA](https://github.com/mojahidaltarif28/Salary-Management-System-JAVA)**: This is a Salary Management System Java project. It uses a Java GUI for the user interface, providing an interactive and user-friendly experience. An XAMPP server handles backend services and database management, ensuring efficient data processing and storage. The system allows for managing employee salary details, including adding, updating, and deleting records. It features tools for tracking salary payments and generating reports. The project emphasizes robust data management and seamless user interaction.
 - **[Smart-Attendance-System](https://github.com/mojahidaltarif28/Smart-Attendance-System)**: Created an artificial intelligence-based smart attendance system project. It uses a camera to automatically record attendance while classes are in session. The project exclusively develops both the backend and frontend in Python.
