@@ -6,21 +6,21 @@
 - ## Portfolio
   <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Screenshot%20(28).png?raw=true" alt="Description of image" width="400" height="230"/>
 
-  <p style="text-align: justify;">This is a personal portfolio website. It showcases various projects and skills, providing a brief overview of my professional background.</p>\
+  <p style="text-align: justify;">This is a personal portfolio website. It showcases various projects and skills, providing a brief overview of my professional background.</p>
   **[Get Code](https://github.com/mojahidaltarif28/portfolio)**&nbsp;&nbsp;&nbsp; **[Go to Live](https://mojahidaltarif28.github.io/portfolio/)**
   <hr>
   
 - ## JnU Food
   <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Images/food-delivery.png?raw=true" alt="Description of image" width="400" height="230"/>
 
-  This is a food delivery Android application that allows users to order and have food delivered online. The backend of the application is developed using Java, which handles   the server-side logic and operations. For data storage and management, the app uses Firebase as its database.\
+    <p style="text-align: justify;">This is a food delivery Android application that allows users to order and have food delivered online. The backend of the application is developed using Java, which handles   the server-side logic and operations. For data storage and management, the app uses Firebase as its database.</p>
   **[Get Code](https://github.com/mojahidaltarif28/JnUFood)**&nbsp;&nbsp;&nbsp; **[Go to Live](https://www.youtube.com/watch?v=BJt5K3pCLDA)**
   <hr>
   
 - ## DotNet EmployeeHub
   <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Images/image.png?raw=true" alt="Description of image" width="400" height="230"/>
 
-  This is a web-based Employee Management System built using .NET and SQL Server. The system allows users to manage employee records, including image handling (with compression), sorting, pagination, and search functionality.\
+    <p style="text-align: justify;">This is a web-based Employee Management System built using .NET and SQL Server. The system allows users to manage employee records, including image handling (with compression), sorting, pagination, and search functionality.</p>
   **[Get Code](https://github.com/mojahidaltarif28/EmployeeManagement)**&nbsp;&nbsp;&nbsp; **[Go to Live](https://mojahidaltarifemployee.bsite.net/)**
   <hr>
   
