@@ -3,7 +3,8 @@
 
 # 🚀 Projects
 - ## Portfolio
-  <img src="https://drive.google.com/file/d/1AYfQE7OyVAjYG1crf1TqCW5YlWm8y8Vj/view?usp=sharing" alt="Description of image" width="400" height="200"/>
+  <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Screenshot%20(28).png?raw=true" alt="Description of image" width="400" height="200"/>
+
    This is a personal portfolio website. It showcases various projects and skills, providing a brief overview of my professional background.
   **[Portfolio](https://github.com/mojahidaltarif28/portfolio)**
 - **[JnU Food](https://github.com/mojahidaltarif28/JnUFood)**: This is a food delivery Android application that allows users to order and have food delivered online. The backend of the application is developed using Java, which handles the server-side logic and operations. For data storage and management, the app uses Firebase as its database.
