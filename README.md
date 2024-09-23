@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:mojahidaltarif78@gmail.com" >
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="rajaul2810" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/mojahidaltarif28/mojahidaltarif28/7adf4d8252064781d89067228fc7b9c9c1d48f61/Images/icons8-gmail.svg" alt="mojahidaltarif" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/rajaul2810" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajaul2810" height="30" width="40" />
