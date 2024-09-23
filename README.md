@@ -24,7 +24,7 @@
   **[Get Code](https://github.com/mojahidaltarif28/EmployeeManagement)**&nbsp;&nbsp;&nbsp; **[Go to Live](https://mojahidaltarifemployee.bsite.net/)**
   <hr>
   
-  <p align="center"> **[Show All Projects](https://mojahidaltarif28.github.io/portfolio/project.html)** </p>
+  <a align="center"> **[Show All Projects](https://mojahidaltarif28.github.io/portfolio/project.html)** </a>
   
   <hr>
 ## 🛠️ Skills
