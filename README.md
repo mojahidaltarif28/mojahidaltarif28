@@ -24,8 +24,10 @@
   **[Get Code](https://github.com/mojahidaltarif28/EmployeeManagement)**&nbsp;&nbsp;&nbsp; **[Go to Live](https://mojahidaltarifemployee.bsite.net/)**
   <hr>
   
-  <a align="center"> **[Show All Projects](https://mojahidaltarif28.github.io/portfolio/project.html)** </a>
-  
+   <p align="center">
+  <strong>[Show All Projects](https://mojahidaltarif28.github.io/portfolio/project.html)</strong>
+   </p>
+   
   <hr>
 ## 🛠️ Skills
 - **Proficient**: C\C++, C#, HTML, CSS, JavaScript, MySQL 
