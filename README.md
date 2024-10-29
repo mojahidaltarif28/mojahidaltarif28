@@ -52,7 +52,7 @@
 <h3 align="left">Projects</h3>
 
 - ## Shwapno Clone 
-  <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Images/image.png?raw=true" alt="Description of image" width="400" height="230"/>
+  <img src="https://raw.githubusercontent.com/mojahidaltarif28/mojahidaltarif28/refs/heads/main/Images/image.png" alt="Description of image" width="400" height="230"/>
 
     Developed an online shopping platform using ASP.NET and MSSQL Server, replicating the functionalities of the popular store Shwapno. The website includes features for product addition, deletion, updating, searching, and cart management.\
   **[Get Code](https://github.com/mojahidaltarif28/ShwapnoCloneProject)**&nbsp;&nbsp;&nbsp; **[Go to Live](http://shwapno.somee.com/)**
