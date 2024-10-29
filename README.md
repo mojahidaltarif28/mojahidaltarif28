@@ -51,13 +51,13 @@
 
 <h3 align="left">Projects</h3>
 
-- ## JnU Food
-  <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Images/food-delivery.png?raw=true" alt="Description of image" width="400" height="230"/>
+- ## Shwapno Clone 
+  <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Images/image.png?raw=true" alt="Description of image" width="400" height="230"/>
 
-    This is a food delivery Android application that allows users to order and have food delivered online. The backend of the application is developed using Java, which handles   the server-side logic and operations. For data storage and management, the app uses Firebase as its database.\
-  **[Get Code](https://github.com/mojahidaltarif28/JnUFood)**&nbsp;&nbsp;&nbsp; **[Go to Live](https://www.youtube.com/watch?v=BJt5K3pCLDA)**
+    Developed an online shopping platform using ASP.NET and MSSQL Server, replicating the functionalities of the popular store Shwapno. The website includes features for product addition, deletion, updating, searching, and cart management.\
+  **[Get Code](https://github.com/mojahidaltarif28/ShwapnoCloneProject)**&nbsp;&nbsp;&nbsp; **[Go to Live](http://shwapno.somee.com/)**
   <hr>
-  
+
 - ## DotNet EmployeeHub
   <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Images/image.png?raw=true" alt="Description of image" width="400" height="230"/>
 
@@ -65,6 +65,13 @@
   **[Get Code](https://github.com/mojahidaltarif28/EmployeeManagement)**&nbsp;&nbsp;&nbsp; **[Go to Live](https://mojahidaltarifemployee.bsite.net/)**
   <hr>
 
+- ## JnU Food
+  <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Images/food-delivery.png?raw=true" alt="Description of image" width="400" height="230"/>
+
+    This is a food delivery Android application that allows users to order and have food delivered online. The backend of the application is developed using Java, which handles   the server-side logic and operations. For data storage and management, the app uses Firebase as its database.\
+  **[Get Code](https://github.com/mojahidaltarif28/JnUFood)**&nbsp;&nbsp;&nbsp; **[Go to Live](https://www.youtube.com/watch?v=BJt5K3pCLDA)**
+  <hr>
+  
 - ## Salary Management System Java
   <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Images/Salary-java.png?raw=true" alt="Description of image" width="400" height="230"/>
 
