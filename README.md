@@ -59,7 +59,7 @@
   <hr>
 
 - ## DotNet EmployeeHub
-  <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Images/image.png?raw=true" alt="Description of image" width="400" height="230"/>
+  <img src="https://github.com/mojahidaltarif28/mojahidaltarif28/blob/main/Images/employeehub.png?raw=true" alt="Description of image" width="400" height="230"/>
 
     This is a web-based Employee Management System built using .NET and SQL Server. The system allows users to manage employee records, including image handling (with compression), sorting, pagination, and search functionality.\
   **[Get Code](https://github.com/mojahidaltarif28/EmployeeManagement)**&nbsp;&nbsp;&nbsp; **[Go to Live](https://mojahidaltarifemployee.bsite.net/)**
