@@ -1,5 +1,7 @@
 # Hi, I'm MD. Mojahid AL Tarif 👋
- I am a passionate web developer with a strong foundation in both frontend and backend technologies. I am proficient in HTML, CSS, JavaScript, and MySQL, and I have experience building dynamic, user-friendly websites and applications. I have experience in ASP.NET, Laravel, Java, Python, Firebase, Git, GitHub, and machine learning, which allows me to explore innovative solutions and stay current with industry trends. I love working with teams and am always looking for opportunities to grow and contribute to exciting projects.
+I am a passionate .NET developer skilled in C#, SQL, MSSQL, HTML, CSS, and JavaScript, dedicated to building impactful, user-focused applications. I thrive in collaborative team environments and am driven to tackle real-world challenges, always eager to expand my expertise and contribute to meaningful solutions.
+
+As part of CPSD Technologies, we managed an array of 60+ sensors, achieving 98% operational efficiency, and streamlined data analysis by 20%. My education at Jagannath University in Computer Science and Engineering underpins my ability to navigate complex technical environments while preparing for future IoT landscapes
 
 📫 Go To My Portfolio: <a href="https://mojahidaltarif28.github.io/portfolio/"><strong>MD. Mojahid AL Tarif</strong></a>
 
