@@ -42,7 +42,7 @@ As part of CPSD Technologies, we managed an array of 60+ sensors, achieving 98% 
   </tr>
   <tr>
     <td>Database</td>
-    <td>SQL, MySQL, Firebase</td>
+    <td>MSSQL, MySQL, Firebase</td>
   </tr>
   <tr>
     <td>Additional Skill</td>
